@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-[Live link](https://project-6-monstera-dp1108.netlify.app/)
+[Live link](https://project-09-company-homepage-dp1108.netlify.app/)
 
 ## Technologies Used
 
